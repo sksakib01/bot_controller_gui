@@ -35,7 +35,7 @@ chmod +x gui_controller.py
 rosrun bot_controller_gui data_publisher.py
 rosrun bot_controller_gui gui_controller.py
 ```
-## Dependencies
+## Important Packages and dependencies
 #### ROS
 #### Tkinter
 #### TurtleBot3 (if running with Gazebo)
