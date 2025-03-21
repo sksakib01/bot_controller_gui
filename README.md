@@ -24,6 +24,7 @@ catkin_make
 ```bash
 source ~/controller_ws/devel/setup.bash
 ```
+#### Go through the scripts folder in the project file bot_controller_gui
 #### Make Python file executable
 ```bash
 chmod +x data_publisher.py
