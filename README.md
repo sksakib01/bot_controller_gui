@@ -24,6 +24,11 @@ catkin_make
 ```bash
 source ~/controller_ws/devel/setup.bash
 ```
+#### Make Python file executable
+```bash
+chmod +x data_publisher.py
+chmod +x gui_controller.py
+```
 #### Then, run the two Python files:
 ```bash
 rosrun bot_controller_gui data_publisher.py
