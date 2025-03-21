@@ -10,7 +10,7 @@ This is a simple bot controller with a graphical user interface.
 #### Run the following terminal commands:
 ```bash
 cd ~/controller_ws/src
-git clone https://github.com/yourusername/bot_controller_gui.git
+git clone https://github.com/sksakib01/bot_controller_gui.git
 ```
 ## 2. Build the Package
 #### (i) Inside the workspace, build the package using catkin_make:
